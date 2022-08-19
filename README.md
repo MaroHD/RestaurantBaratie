@@ -1,3 +1,4 @@
+![botimage](https://media.discordapp.net/attachments/1008816409045905510/1010218203324104815/restaurantbaratie.png?width=872&height=436)
 # RestaurantBaratie
 Welcome to Restaurant Baratie, With our bot you can order food and will come to your discord server, You can also participate in the Restaurant Baratie Events that can be started by the Head of Restaurant Baratie.
 # Working Times
@@ -7,12 +8,12 @@ The Bot Service is online everyday for 23 hours, and Approximately 1 hour where 
 - This Bot fully works in Slash Commands to improve the Bot Interface. If you dont know what is Slash Commands, Please enter this link: https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ
 - This Bot is in the Alpha Phase so many things are expected to go wrong and we are facing some temporarily Designs and Interface.
 
-- The Bot will be having language feature in the first release, More information about the available langaugeds are here: https://github.com/MaroHD/RestaurantBaratie/wiki/Available-Languages-for-the-Bot
+- The Bot will be having language feature in the final release, More information about the available langaugeds are here: https://github.com/MaroHD/RestaurantBaratie/wiki/Available-Languages-for-the-Bot
 
 - Orders usually come faster when you are accurate, If its not accurate it will take longer to finish your order, also when when you provide the Original Name/English Name of the order, It can come faster.
 
 ***
-# Terms of Service V0.1
+# Terms of Service V0.1 Offical
 - Any form of troll orders will get you punished <Verbal/Verbal/Ban for a Day/Ban for 3 Days/Ban for 7 Days/Perma Ban> 
 > (Verbal Record Expire after 2 days, Bans Record Expires after 10 days multiplied with the ban duration "got banned for a day/record gets expired after 10 days, got banned for 7 days/record gets expired after 70 days")
 
@@ -25,8 +26,9 @@ The Bot Service is online everyday for 23 hours, and Approximately 1 hour where 
 - Respect the Staff Team of the Baratie Service
 - Any forms of Advertising without Valid Permission will get you punished (Like advertising using the order command) <Verbal/Ban for a day/Ban for 7 days/Perma Ban>
 > (Verbal Record Expire after 2 days, Bans Record Expires after 10 days multiplied with the ban duration "got banned for a day/record gets expired after 10 days, got banned for 7 days/record gets expired after 70 days")
+- Don't Put links in order messages. <Verbal/Verbal/Ban for a Day/Ban for 3 Days/Ban for 7 Days/Perma Ban> 
 ***
-# Privacy Policy V0.1
+# Privacy Policy V0.1 Offical
 - Any information we gather from the Users like Email Addresses, Servers, and ETC, can not be "seen/given/used" by anyone that isn't The User or The Developers
 > Which the gathered data is used to improve the User's Experience and Simplfiy the Service for them either on the Bot or the Website, To basically help you manage any saved data inside our service.
 
@@ -37,3 +39,9 @@ The Bot Service is online everyday for 23 hours, and Approximately 1 hour where 
 ***
 # Bot Invite Link
 https://discord.com/oauth2/authorize?client_id=1008147609422151681&permissions=2147871808&scope=bot%20applications.commands
+***
+# Server Link
+https://discord.com/invite/QSX74Xm
+
+![serverlogo](https://media.discordapp.net/attachments/1008816409045905510/1010218406995300372/Tophatguild.png?width=218&height=218)
+
