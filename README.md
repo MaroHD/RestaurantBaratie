@@ -46,4 +46,4 @@ https://stats.uptimerobot.com/gxp9BslZ10
 # Server Link
 https://discord.com/invite/QSX74Xm
 
-![serverlogo](https://media.discordapp.net/attachments/1008816409045905510/1010218406995300372/Tophatguild.png?width=218&height=218)
+![serverlogo](https://media.discordapp.net/attachments/1008816409045905510/1010566907964956784/New_Canvas.png?width=218&height=218)
