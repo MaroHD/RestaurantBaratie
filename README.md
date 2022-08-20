@@ -38,7 +38,7 @@ The Bot Service is online everyday for 23 hours, and Approximately 1 hour where 
 - When the Privacy Policy gets Updated, We won't collect any new data from you until you accept The new Policy in the Policy page of the website, The bot will notify you when you try to do a command.
 ***
 # Bot Invite Link
-https://discord.com/oauth2/authorize?client_id=1008147609422151681&permissions=2147871808&scope=bot%20applications.commands
+https://discord.com/api/oauth2/authorize?client_id=1008147609422151681&permissions=388160&scope=applications.commands%20bot
 ***
 # Bot Uptime Status
 https://stats.uptimerobot.com/gxp9BslZ10
