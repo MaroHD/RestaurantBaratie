@@ -40,8 +40,10 @@ The Bot Service is online everyday for 23 hours, and Approximately 1 hour where 
 # Bot Invite Link
 https://discord.com/oauth2/authorize?client_id=1008147609422151681&permissions=2147871808&scope=bot%20applications.commands
 ***
+# Bot Uptime Status
+https://stats.uptimerobot.com/gxp9BslZ10
+***
 # Server Link
 https://discord.com/invite/QSX74Xm
 
 ![serverlogo](https://media.discordapp.net/attachments/1008816409045905510/1010218406995300372/Tophatguild.png?width=218&height=218)
-
