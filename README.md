@@ -28,14 +28,10 @@ The Bot Service is online everyday for 23 hours, and Approximately 1 hour where 
 > (Verbal Record Expire after 2 days, Bans Record Expires after 10 days multiplied with the ban duration "got banned for a day/record gets expired after 10 days, got banned for 7 days/record gets expired after 70 days")
 - Don't Put links in order messages. <Verbal/Verbal/Ban for a Day/Ban for 3 Days/Ban for 7 Days/Perma Ban> 
 ***
-# Privacy Policy V0.1 Offical
-- Any information we gather from the Users like Email Addresses, Servers, and ETC, can not be "seen/given/used" by anyone that isn't The User or The Developers
-> Which the gathered data is used to improve the User's Experience and Simplfiy the Service for them either on the Bot or the Website, To basically help you manage any saved data inside our service.
-
-> If you visit the website, Your data will never be recieved unless you do the Authentication to our Service (Log-in with Discord), and then the data can be recieved.
-- You have the right to delete the data from the Restaurant Baratie Statistics Website and any saved data will be Wiped Out from our Database and will never be recovered
-> Data Deletion usually requires 3 days to confirm so you will need to request and then wait for 3 days and accept the delete confirmation in the website
-- When the Privacy Policy gets Updated, We won't collect any new data from you until you accept The new Policy in the Policy page of the website, The bot will notify you when you try to do a command.
+# Privacy Policy V0.2 Offical
+- Any Gathered Information from our Service is only Used to improve User's Experience and can't be used/seen by anyone that isnot the User or the Developer (We don't collect any sensitive information like Emails, Servers you are inside, and Other Stuff in the Current Verison, If we Started to collect some Data you will be notified and required to approve, and Some Of the Data Requires Discord OAuth32 so you will still need to approve eitherway.
+- The User has the right to delete any stored data in our databases, The Users will be notified about any Privacy Policy changes before any more usage of the bot, Data Deletion doesn't include stuff we log like orders you made, recieved, cancelled and other logs we may log but if we started to log some new stuff we will notify you  before letting you use a command that uses our database.
+> Data Deletion Takes 3 days to give you time if you wanted to undo the delete so you will need to approve the deletion after 3 days occur, You wont be able to use any sort of Bot Features that is saved in our Database until you either undo the deletion or approve it then make a new account, You offically make an account in our database if you use any Commands that saves data in our Database, So far the data deletion has no Automatic way so you will need to DM The Developer until the /deletedata command is created.
 ***
 # Bot Invite Link
 https://discord.com/api/oauth2/authorize?client_id=1008147609422151681&permissions=388160&scope=applications.commands%20bot
