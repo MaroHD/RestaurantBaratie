@@ -13,20 +13,8 @@ The Bot Service is online everyday for 23 hours, and Approximately 1 hour where 
 - Orders usually come faster when you are accurate, If its not accurate it will take longer to finish your order, also when when you provide the Original Name/English Name of the order, It can come faster.
 
 ***
-# Terms of Service V0.1 Offical
-- Any form of troll orders will get you punished <Verbal/Verbal/Ban for a Day/Ban for 3 Days/Ban for 7 Days/Perma Ban> 
-> (Verbal Record Expire after 2 days, Bans Record Expires after 10 days multiplied with the ban duration "got banned for a day/record gets expired after 10 days, got banned for 7 days/record gets expired after 70 days")
-
-> You can appeal for any false moderation by using the Appeal in the Wiki of this Github Repo
-- Any form of troll apply request to be a Cook/Moderator will get you punished <Verbal/Ban for a Day/Ban for 3 Days/Ban for 7 Days/Perma Ban>
-> (Verbal Record Expire after 2 days, Bans Record Expires after 10 days multiplied with the ban duration "got banned for a day/record gets expired after 10 days, got banned for 7 days/record gets expired after 70 days")
-- Any orders which includes any of these categories will get you punished <Verbal/Verbal/Ban for a Day/Ban for 3 Days/Ban for 7 Days/Perma Ban> 
-> Anything that isn't Edible for humans (Like Poisonius Food, Non-Food Objects, Raw Meat, and etc), Medicine and Drugs, Animal Food thats Specifically for Animals, NSFW, Cannibalisim, Insects and Bugs, Foods that don't apply to the Common Sense of a restaurant
-- Follow Common Sense before doing anything.
-- Respect the Staff Team of the Baratie Service
-- Any forms of Advertising without Valid Permission will get you punished (Like advertising using the order command) <Verbal/Ban for a day/Ban for 7 days/Perma Ban>
-> (Verbal Record Expire after 2 days, Bans Record Expires after 10 days multiplied with the ban duration "got banned for a day/record gets expired after 10 days, got banned for 7 days/record gets expired after 70 days")
-- Don't Put links in order messages. <Verbal/Verbal/Ban for a Day/Ban for 3 Days/Ban for 7 Days/Perma Ban> 
+# Terms of Service
+Moved to https://github.com/MaroHD/RestaurantBaratie/wiki/Terms-of-Service-V0.2
 ***
 # Privacy Policy V0.2 Offical
 - Any Gathered Information from our Service is only Used to improve User's Experience and can't be used/seen by anyone that isnot the User or the Developer (We don't collect any sensitive information like Emails, Servers you are inside, and Other Stuff in the Current Verison, If we Started to collect some Data you will be notified and required to approve, and Some Of the Data Requires Discord OAuth32 so you will still need to approve eitherway.
