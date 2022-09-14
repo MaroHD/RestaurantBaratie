@@ -2,7 +2,7 @@
 # RestaurantBaratie
 Welcome to Restaurant Baratie, With our bot you can order food and will come to your discord server, You can also participate in the Restaurant Baratie Events that can be started by the Head of Restaurant Baratie.
 # Working Times
-The Bot Service is online everyday for 23 hours, and Approximately 1 hour where only Quick-Orders are allowed, The 1 hour is where the bot gets new updates to either the Quick-Orders or The Bot it Self.
+The Bot is online 24/7 available for any order for any restaurants and customers!
 ***
 # *- Notes*:
 - This Bot fully works in Slash Commands to improve the Bot Interface. If you dont know what is Slash Commands, Please enter this link: https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ
